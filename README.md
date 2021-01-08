@@ -1,2 +1,2 @@
 # Unimoni-Competitor-Analysis
-a Competitor Analysis Report for Unimoni to convey the financial health of three of its main competitors by calculating financial ratios and conducting secondary research.
+Analyzing the effect of the IF&LS Crisis as well as product analysis of Muthoot Finance Limited, Manappuram Finance Limited, and Bajaj Finance Limited.
